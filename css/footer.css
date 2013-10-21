@@ -1,0 +1,68 @@
+#footercontainer5 {
+	clear:left;
+	float:left;
+	width:100%;
+	overflow:hidden;
+}
+#footercontainer4 {
+	clear:left;
+	float:left;
+	width:100%;
+	position:relative;
+	right:20%;
+}
+#footercontainer3 {
+	clear:left;
+	float:left;
+	width:100%;
+	position:relative;
+	right:20%;
+}
+#footercontainer2 {
+	clear:left;
+	float:left;
+	width:100%;
+	position:relative;
+	right:20%;
+}
+#footercontainer1 {
+	float:left;
+	width:100%;
+	position:relative;
+	right:20%;
+}
+#footercol1 {
+	float:left;
+	width:12%;
+	position:relative;
+	left:82%;
+	overflow:hidden;
+}
+#footercol2 {
+	float:left;
+	width:16%;
+	position:relative;
+	left:86%;
+	overflow:hidden;
+}
+#footercol3 {
+	float:left;
+	width:16%;
+	position:relative;
+	left:90%;
+	overflow:hidden;
+}
+#footercol4 {
+	float:left;
+	width:16%;
+	position:relative;
+	left:94%;
+	overflow:hidden;
+}
+#footercol5 {
+	float:left;
+	width:16%;
+	position:relative;
+	left:98%;
+	overflow:hidden;
+}
